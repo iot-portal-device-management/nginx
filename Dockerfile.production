@@ -3,6 +3,8 @@ ARG NGINX_VERSION=1.23.2-alpine
 
 FROM nginx:${NGINX_VERSION}
 
+LABEL com.iotportaldevicemanagement.product="iotportaldevicemanagement"
+
 COPY --from=api-builder --chown=nginx:nginx /var/www/html/ /var/www/html/
 
 ARG API_UPSTREAM_CONTAINER=api
