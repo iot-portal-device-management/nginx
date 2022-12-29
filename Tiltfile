@@ -1,6 +1,6 @@
 #
 # Copyright (C) 2021-2023 Intel Corporation
-# SPDX-License-Identifier: BSD-2-Clause
+# SPDX-License-Identifier: MIT
 #
 
 version_settings(constraint='>=0.22.2')
