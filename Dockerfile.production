@@ -1,3 +1,8 @@
+#
+# Copyright (C) 2021-2023 Intel Corporation
+# SPDX-License-Identifier: BSD-2-Clause
+#
+
 # Defaults
 ARG NGINX_VERSION=1.23.2-alpine
 
