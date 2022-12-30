@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/iot-portal-device-management/nginx">
-    IoT Portal Device Management NGINX Docker Image
+    NGINX Docker Image for IoT Portal Device Management
   </a>
 </h1>
 
